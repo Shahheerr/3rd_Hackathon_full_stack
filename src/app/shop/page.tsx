@@ -1,6 +1,4 @@
 'use client'
-import Navbar from "../components/navbar";
-import Footer from "../components/footer";
 import Stars from "../components/stars";
 import FoodList from "../products/page";
 
@@ -290,9 +288,7 @@ className=" h-2 bg-[#FF9F0D] rounded-lg appearance-none cursor-pointer accent-gr
 
         </div>
 
-        </div>    
- 
- <Footer/>
+        </div>
         </section>
         
         
